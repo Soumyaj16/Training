@@ -12,3 +12,5 @@ Minimal example of frontend, backend, and Postgres to deploy on EKS and manage w
 Notes:
 - This example uses a simple Postgres Deployment + PVC for demonstration. For production, use a managed DB (RDS/Aurora) or a StatefulSet with proper backups/HA.
 - Replace placeholders such as `<REGISTRY>/frontend:tag` and `<REGISTRY>/backend:tag`.
+
+# Training
